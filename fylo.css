@@ -176,7 +176,7 @@ body {
     display: grid;
     grid-area: area 1;
     position: relative;
-    bottom: 1.5rem;
+    bottom: 2.5rem;
   }
 
   .status {
