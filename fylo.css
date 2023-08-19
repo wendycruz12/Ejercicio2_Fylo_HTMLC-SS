@@ -153,7 +153,7 @@ body {
   font-size: 12px;
 }
 
-@media (min-width: 780px) {
+@media (min-width: 790px) {
   body {
     background-image: url(images/bg-desktop.png);
     background-color: hsl(229, 57%, 11%);
