@@ -175,8 +175,6 @@ body {
     width: 20rem;
     display: grid;
     grid-area: area 1;
-    position: relative;
-    bottom: 1.5rem;
   }
 
   .status {
@@ -184,6 +182,8 @@ body {
     width: 30rem;
     display: grid;
     grid-area: area2;
+    position: relative;
+    bottom: -1.5rem;
   }
 
   .span {
